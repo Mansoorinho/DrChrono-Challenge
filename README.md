@@ -1,4 +1,4 @@
-# DrChrono-Challenge
+# DrChrono-Challenge by HackerRank
 My codes for Dr Chrono Challenge
 <!DOCTYPE html>
 <html lang="en">
@@ -14,7 +14,17 @@ My codes for Dr Chrono Challenge
     <li><b> If two or more quantities have the same frequency, then consider the highest quantity among them</b></li>
     </ul>
   Complete the <i><b>get rock_index </i></b>function in the editor below. It has one parameter an array.quantity. of n positive integers.<br>
-       It must return an integer denoting the highest index of the partition containing the most frequently occurring quantity in Geoffrey's box. Input Format Locked stub code in the editor reads the following input from stdin and passes it to the function:</p>
-    
+       It must return an integer denoting the highest index of the partition containing the most frequently occurring quantity in Geoffrey's box.</p>
+    <p>
+    <p>Input Format<p><br>
+    Locked stub code in the editor reads the following input from stdin and passes it to the function: 
+    The first line contains an integer, n, denoting the number of types of rocks.<br>
+    Each line i of the n subsequent lines contains integers denoting the number of each type of rock in Jamie's box.<br>
+    <b>Constraints</b><br>
+    <ul>
+        <li><i>1 <= n <= 10<sup>5</sup></i></li>
+        <li><i> 1 <= quantity <sub>i</sub><= 10<sup>6</sup></i></li>
+    </ul>Output Format Return an integer denoting the highest index of the partition containing the most frequently occurring quantity in Geoffrey's box. 23 24 25 26 Sample Input 0 29 30 6. 9. 19 Sample Output 0 1 Explanation 0 Test quantity = (5, 5, 9, 19, 2, 2) I 10. Final Field Readin. 9HackerRank - Google ::::::
+    </p>
 </body>
 </html>
