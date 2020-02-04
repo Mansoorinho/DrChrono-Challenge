@@ -24,7 +24,26 @@ My codes for Dr Chrono Challenge
     <ul>
         <li><i>1 <= n <= 10<sup>5</sup></i></li>
         <li><i> 1 <= quantity <sub>i</sub><= 10<sup>6</sup></i></li>
-    </ul>Output Format Return an integer denoting the highest index of the partition containing the most frequently occurring quantity in Geoffrey's box. 23 24 25 26 Sample Input 0 29 30 6. 9. 19 Sample Output 0 1 Explanation 0 Test quantity = (5, 5, 9, 19, 2, 2) I 10. Final Field Readin. 9HackerRank - Google ::::::
+    </ul>
+    <h4>Output Format</h4>
+    Return an integer denoting the highest index of the partition containing the most frequently occurring quantity in Geoffrey's box.
+    <h4>Sample Output 0</h4>
+    <div style="font-size:12px; background-color:gray; border:2px solid black;">
+        <p>
+        6<br>
+        5<br>
+        5<br>
+            9<br>
+            19<br>
+            2<br>
+         2<br>
+        </p>
+    </div>
+    
+     <h4>Sample Output 0</h4>
+         <div style="font-size:12px; background-color:gray; border:2px solid black;">
+         0
+         </div>
     </p>
 </body>
 </html>
