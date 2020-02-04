@@ -13,7 +13,8 @@ My codes for Dr Chrono Challenge
     <li><b> The partitions are 0 indexed.</b></li>
     <li><b> If two or more quantities have the same frequency, then consider the highest quantity among them</b></li>
     </ul>
-  Complete the get rock_index function in the editor below. It has one parameter an array.quantity. of n positive integers.<br>
+  Complete the <i><b>get rock_index </i></b>function in the editor below. It has one parameter an array.quantity. of n positive integers.<br>
        It must return an integer denoting the highest index of the partition containing the most frequently occurring quantity in Geoffrey's box. Input Format Locked stub code in the editor reads the following input from stdin and passes it to the function:</p>
+    
 </body>
 </html>
