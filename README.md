@@ -28,7 +28,7 @@ My codes for Dr Chrono Challenge
     <h4>Output Format</h4>
     Return an integer denoting the highest index of the partition containing the most frequently occurring quantity in Geoffrey's box.
     <h4>Sample Output 0</h4>
-    <div style="font-size:12px; background-color:yellow; border:2px solid black; height:100%; width:60%">
+    <div style="font-size:12px; background-color:yellow; border:2px solid black; height:100%; width:60%;">
         <p>
         6<br>
         5<br>
@@ -40,7 +40,7 @@ My codes for Dr Chrono Challenge
         </p>
     </div>
 <h4>Sample Output 0</h4>
-  <div style="font-size:12px; background-color:yellow; border:2px solid black; height:100%; width:60%">     
+  <div style="font-size:12px; background-color:gray; border:2px solid black; height:100%; width:60%;">     
          1
    </div>
     </p>
