@@ -39,10 +39,11 @@ My codes for Dr Chrono Challenge
          2<br>
         </p>
     </div>
-     <h4>Sample Output 0</h4>
-         <div style="font-size:12px; background-color:gray; border:2px solid black;">
-         0
-         </div>
+    
+     Sample Output 0
+       
+         1
+
     </p>
 </body>
 </html>
