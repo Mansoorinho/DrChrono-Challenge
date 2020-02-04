@@ -14,12 +14,12 @@ My codes for Dr Chrono Challenge
     <li><b> If two or more quantities have the same frequency, then consider the highest quantity among them</b></li>
     </ul>
   Complete the <i><b>get rock_index </i></b>function in the editor below. It has one parameter an array.quantity. of n positive integers.<br>
-       It must return an integer denoting the highest index of the partition containing the most frequently occurring quantity in Geoffrey's box.</p>
-    <p>
+       It must return an integer denoting the highest index of the partition containing the most frequently occurring quantity in Geoffrey's box.
+<br>
     <p>Input Format<p><br>
     Locked stub code in the editor reads the following input from stdin and passes it to the function: 
     The first line contains an integer, n, denoting the number of types of rocks.<br>
-    Each line i of the n subsequent lines contains integers denoting the number of each type of rock in Jamie's box.<br>
+    Each line i of the n subsequent lines contains integers denoting the number of each type of rock in Jamie's box.<br><br>
     <b>Constraints</b><br>
     <ul>
         <li><i>1 <= n <= 10<sup>5</sup></i></li>
