@@ -15,12 +15,12 @@ My codes for Dr Chrono Challenge
     </ul>
   Complete the <i><b>get rock_index </i></b>function in the editor below. It has one parameter an array.quantity. of n positive integers.<br>
        It must return an integer denoting the highest index of the partition containing the most frequently occurring quantity in Geoffrey's box.
-<br>
-    <p>Input Format<p><br>
+<br><br>
+    <h4>Input Format<4><br>
     Locked stub code in the editor reads the following input from stdin and passes it to the function: 
     The first line contains an integer, n, denoting the number of types of rocks.<br>
     Each line i of the n subsequent lines contains integers denoting the number of each type of rock in Jamie's box.<br><br>
-    <b>Constraints</b><br>
+    <h4>Constraints<h4><br>
     <ul>
         <li><i>1 <= n <= 10<sup>5</sup></i></li>
         <li><i> 1 <= quantity <sub>i</sub><= 10<sup>6</sup></i></li>
