@@ -23,7 +23,7 @@ My codes for Dr Chrono Challenge
     <h4>Constraints<h4>
     <ul>
         <li><i>1 <= n <= 10<sup>5</sup></i></li>
-        <li><i> 1 <= quantity <sub>i</sub><= 10<sup>6</sup></i></li>
+        <li><i> 1 <= quantity<sub>i</sub> <= 10<sup>6</sup></i></li>
     </ul>
     <h4>Output Format</h4>
     Return an integer denoting the highest index of the partition containing the most frequently occurring quantity in Geoffrey's box.
